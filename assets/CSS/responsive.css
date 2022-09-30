@@ -1,0 +1,52 @@
+@media (max-width: 739px) {
+    .top {
+        padding: 0 12px;
+    }
+
+    .menu_items {
+        height: 100%;
+    }
+
+    .about_item {
+        width: 100%;
+    }
+
+    .food_items {
+        width: 100%;
+    }
+
+    .feedback_item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .chef_items {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+}
+
+@media(min-width: 740px) and (max-width: 1023px) {
+    .top {
+        padding: 0 12px;
+    }
+
+    .about_item {
+        width: 100%;
+    }
+
+    .food_items {
+        width: 100%;
+    }
+
+    .feedback_item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .chef_items {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+}
+    
